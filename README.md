@@ -1,1 +1,2 @@
-# IoT--Object-Detection-System
+IoT Based Currency Detection System
+
